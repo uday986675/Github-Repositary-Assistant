@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Python virtual environment
+myenv/
+venv/
+env/
+
+# Vector store and cache
+vectorstore/
+
+# Cloned repositories
+repositories/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secret files
+c
